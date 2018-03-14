@@ -1,0 +1,6 @@
+wap to print your address
+wap to accept 2 nos from user and stimulate calaculator
+wap to accept l n b and find a and p of rectangle
+wap to demonstrate ascii;
+wap to convert km to m
+wap to swap 2 nos with temp

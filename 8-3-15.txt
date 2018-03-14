@@ -1,0 +1,15 @@
+wap to find roots of q eqn
+wap using for to generate fibonacci series till n
+wap to floyds tri
+patterns
+wap to compute sum of squares of no using pow
+#include<stdio.h>
+int main(){
+	
+	int i,j,k=1,n;
+	printf("entar a no");
+	scanf("%d",&n);
+}
+
+
+

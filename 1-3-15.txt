@@ -1,0 +1,8 @@
+sum of terms 1+3+5
+palendrome using for and while
+factorial using for
+table using for
+sod using for
+program to find sum of even and odd nos 1-100 using for
+program to find sum of series
+1/!+1/2!...	
