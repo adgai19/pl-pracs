@@ -1,1 +1,3 @@
 rec function for fact,fibonacci sum of n no and base exponent
+wap to declare an array take n different  user nos & find largest and smallest
+sort
