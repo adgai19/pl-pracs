@@ -1,0 +1,1 @@
+rec function for fact,fibonacci sum of n no and base exponent
