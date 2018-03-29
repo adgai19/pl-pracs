@@ -1,0 +1,7 @@
+wap to accept int array sort in decending
+using arrays generate fibonacci
+print largest and 2nd largest
+smallest and 2 d smallest
+demonstrate copying of 1 array into another
+compute reverse
+checking for palindrome
