@@ -1,4 +1,5 @@
-#include <ctype.h>
+/*program to take 2 numners i and j and to display i^j*/
+
 #include <stdio.h>
 long baseexpo(int i,int j){
   if(j==0)
@@ -7,12 +8,6 @@ long baseexpo(int i,int j){
 }
 int  main(int argc, char const *argv[]) {
   int i,j;
-/*  char al;
-  scanf("%c",&al );
-
-  al=toupper(al);
-  printf("%c\n",al );
-printf("c:\tc\bin\n" );*/
 printf("enter base and power\n" );
 scanf("%d%d",&i,&j);
 printf("the ans is %ld\n",baseexpo(i,j));

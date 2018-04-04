@@ -1,3 +1,4 @@
+/*program to display whether a number is even or odd*/
 #include<stdio.h>
 int main(){
 	int a,b;

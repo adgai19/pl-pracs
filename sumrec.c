@@ -1,3 +1,4 @@
+/*program to find sum of series 1+2+3+4+5....till n recursively*/
 #include <stdio.h>
 int sum(int i){
   if(i==0)

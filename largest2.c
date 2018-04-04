@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*program to compute largest and 2nd largest nos in an array*/#include <stdio.h>
 int main() {
   int i,n,a[100],l,l2n;
 int  l2c=0;
@@ -12,17 +12,17 @@ int  l2c=0;
   printf("enter %d elements\n",n );
   for (i=0;i<n;i++) {
     scanf("%d",&a[i] );
-    /* code */
+    /* this works if the 1st element is not the largest */
   }
   l=a[0];
   for(i=1;i<n;i++){
     if(a[i]>l){
-    l2c=1;
+    l2c=1;//flag
   //  printf("l2c change\n%d",l2c );
       l2n=l;
       l=a[i];
     }
-  }if(!l2c){l2n=a[1];
+  }if(!l2c){l2n=a[1];//come over here if the 1st element is largest
     for(i=1;i<n;i++)
     if(l2n<a[i])
     l2n=a[i];

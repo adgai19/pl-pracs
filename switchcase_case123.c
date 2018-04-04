@@ -1,3 +1,4 @@
+/*program to demonstrate switch case*/
 #include<stdio.h>
 int main(){
 	int a=2;

@@ -1,3 +1,4 @@
+/*program to sort n numbers entered by user in ascending order*/
 #include <stdio.h>
 int main(){
   int i,n,j,a[100],t;

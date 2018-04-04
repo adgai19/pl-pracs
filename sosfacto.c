@@ -1,3 +1,4 @@
+/*program to find sum of series 1/1!+1/2!+1/3!... till n*/
 #include<stdio.h>
 int main(){
 	int i,n,j,k;

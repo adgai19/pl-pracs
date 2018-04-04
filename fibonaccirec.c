@@ -1,3 +1,4 @@
+/*program to display fibonacci series recursively*/
 #include <stdio.h>
 int fib(int i){
   if(i==0)

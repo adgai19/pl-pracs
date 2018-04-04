@@ -1,3 +1,4 @@
+/*program to diaplay no of days in the month depending on user input*/
 #include<stdio.h>
 int main(){
 int a;

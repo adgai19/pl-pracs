@@ -1,3 +1,4 @@
+/*program to find factorial of a no recursively*/
 #include<stdio.h>
 int fact(int i){
   if(i==1)

@@ -1,3 +1,4 @@
+/*program to display if a no is odd or even using tertiary operator*/
 #include<stdio.h>
 int main(){
 	int a;

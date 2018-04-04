@@ -1,3 +1,4 @@
+/*program to display smallest 2 nos in an array*/
 #include <stdio.h>
 int main() {
   int i,n,a[100],l,l2n;

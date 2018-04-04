@@ -1,3 +1,4 @@
+/*program to compute area of circle or rectangle depending on user input*/
 #include<stdio.h>
 #include<math.h>
 int main(){

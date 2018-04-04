@@ -1,3 +1,4 @@
+/*program to display fibonacci series till a no*/
 #include<stdio.h>
 int main(){
 	int a,b,c,n;

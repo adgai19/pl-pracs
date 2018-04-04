@@ -1,3 +1,4 @@
+/*program to compute sum of digits using for loop*/
 #include<stdio.h>
 int main(){
 	int i,s;

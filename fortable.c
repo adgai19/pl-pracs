@@ -1,4 +1,4 @@
-#include<stdio.h>
+/*program to display table of a no using for loop*/#include<stdio.h>
 int main(){
 	int i,n;
 	printf("enter a no");

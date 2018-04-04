@@ -1,3 +1,4 @@
+/*program to check if a number is palendrome using while loop*/
 #include<stdio.h>
 int main(){
 	int n,i,s=0;

@@ -1,3 +1,4 @@
+/*program to display largest and smallest no in the array*/
 #include <stdio.h>
 int main(){
   int i,n,l,s, a[100];

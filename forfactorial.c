@@ -1,3 +1,4 @@
+/*program to compute factorial iteratively using for loop*/
 #include<stdio.h>
 int main(){
 	int n,i;

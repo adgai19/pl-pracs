@@ -1,3 +1,4 @@
+/*program to find day of week depending on user input*/
 #include<stdio.h>
 int main(){
 	int a;
