@@ -1,3 +1,4 @@
+/*program to reverse an array using another array*/
 #include <stdio.h>
 int main(int argc, char const *argv[]) {
   int a[100],i,n,b[100],t;

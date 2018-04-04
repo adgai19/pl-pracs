@@ -1,3 +1,4 @@
+/*program to display roots of a qudratic equation*/
 #include<stdio.h>
 int main(){
 	float a,b,c,d,x1,x2;

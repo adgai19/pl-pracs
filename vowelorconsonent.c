@@ -1,3 +1,4 @@
+/*program to find whether a letter is vowel or consonent*/
 #include<stdio.h>
 #include<string.h>
 int main(){

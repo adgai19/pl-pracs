@@ -1,3 +1,4 @@
+/*program to find sum of odd and even nos till 100*/
 #include<stdio.h>
 int main(){
 	int e=0,o=0,i;

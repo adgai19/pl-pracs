@@ -1,3 +1,4 @@
+/*program to display pascal's triangle*/
 #include<stdio.h>
 int main(){
 	int i,j,k=1,n;

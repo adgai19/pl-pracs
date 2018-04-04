@@ -1,3 +1,10 @@
+/*program  to display a triangle
+    *
+   **
+  ***
+ ****
+*****
+*/
 #include<stdio.h>
 int main(){
 	

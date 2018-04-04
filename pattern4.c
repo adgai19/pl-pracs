@@ -1,3 +1,10 @@
+/*program to display following triangle
+1
+22
+333
+4444
+55555
+*/
 #include<stdio.h>
 int main(){
 	
