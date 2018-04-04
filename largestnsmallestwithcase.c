@@ -1,3 +1,4 @@
+/*program to compare 2 nos and display which is greater*/
 #include<stdio.h>
 int main(){
 	int a,b;
