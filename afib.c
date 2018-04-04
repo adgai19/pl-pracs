@@ -1,3 +1,4 @@
+/*program to generate n elements of fibonacci using arrays*/
 #include <stdio.h>
 int main(int argc, char const *argv[]) {
   int a[100]={0,1},i,n;

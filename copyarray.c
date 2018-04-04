@@ -1,3 +1,4 @@
+/*program to copy 1 array to another*/
 #include <stdio.h>
  int main(int argc, char const *argv[]) {
   int i,a[100],b[100],n;
