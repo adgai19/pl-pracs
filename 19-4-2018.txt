@@ -1,0 +1,7 @@
+program  to stimulate phone directory
+matrix multiplication of 2 matrices
+file program to print invoice
+file program to accept n no a d save in num.txt. display all nos in num.txt. check if nos are odd or even .if odd put in odd.txt if even put in even.txt
+impliment using putw n fscanf
+wap to accept paragraph from user and put in para.txt
+count no of char, blank spaces vertical tab and newline
