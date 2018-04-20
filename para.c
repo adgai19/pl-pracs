@@ -1,3 +1,4 @@
+/*program to take a paragraph from terminal and save it in a file*/
 #include <stdio.h>
 #include <stdio_ext.h>
 int main(int argc, char const *argv[]) {

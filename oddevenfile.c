@@ -1,4 +1,8 @@
-#include <stdio.h>
+/*program to  accept n no a d save in num.txt.
+ display all nos in num.txt. check if nos are odd or even .
+if odd put in odd.txt if even put in even.txt
+using putw and getw*/
+ #include <stdio.h>
 int main(int argc, char const *argv[]) {
   int n,i,t;
   FILE *nump, *oddp, *evenp;

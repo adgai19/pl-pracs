@@ -1,3 +1,5 @@
+/*program to demonstrate invoice creation using file handling*/
+
 #include <stdio.h>
 int main(int argc, char const *argv[]) {
   char itname[20],no[5];
